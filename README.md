@@ -8,16 +8,18 @@
 
 ## For more details regarding
 ### Model 1: Simple prototype of parking lot with limited parking spaces.
-[SimulationModel1]()
-[SimulationOutputFile1]()
+[SimulationModel1](https://github.com/Harikapenjerla/Parking-Lot-Model-Arena-Simulation/blob/master/Model1.doe) <br />
+[SimulationOutputFile1](https://github.com/Harikapenjerla/Parking-Lot-Model-Arena-Simulation/blob/master/Model1_report.pdf)
 
 ### Model 2:Little advanced prototype of parking lot with special characteristics.
-[SimulationModel2]()
-[SimulationOutputFile2]()
+[SimulationModel2](https://github.com/Harikapenjerla/Parking-Lot-Model-Arena-Simulation/blob/master/Model2.doe) <br />
+[SimulationOutputFile2](https://github.com/Harikapenjerla/Parking-Lot-Model-Arena-Simulation/blob/master/Model2_report.pdf)
 
 ### Project Documentation.
-[Report]()
+[Report](https://github.com/Harikapenjerla/Parking-Lot-Model-Arena-Simulation/blob/master/Final%20Documentation.pdf)
 
 ### Presentation.
-[Presentation]()
+[Presentation](https://github.com/Harikapenjerla/Parking-Lot-Model-Arena-Simulation/blob/master/Presentation.pdf)
+
+#### Note: Any suggestions are appreciated. TIA.
 
